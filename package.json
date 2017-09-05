@@ -1,0 +1,17 @@
+{
+  "name": "KRL-atom",
+  "version": "0.0.0",
+  "description": "Adds text-highlighting and other syntax support for KRL in Atom Text Editor",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Blunderproof/KRL-atom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Blunderproof/KRL-atom/issues"
+  },
+  "license": "BYU"
+}
